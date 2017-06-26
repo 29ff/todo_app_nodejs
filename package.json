@@ -1,13 +1,13 @@
 {
   "name": "node-todos",
   "version": "1.0.0",
-  "description": "Xay dung ung dung danh sach phai lam",
+  "description": "Build the todo app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "BaHung",
+  "author": "29ff",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
